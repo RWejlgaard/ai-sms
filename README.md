@@ -1,5 +1,7 @@
 # ai-sms
 
+[ai-cli](https://github.com/rwejlgaard/ai-cli)
+
 ChatGPT is finally available over SMS!
 
 Available now in UK on `+44 7763 269816`
